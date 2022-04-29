@@ -1,2 +1,2 @@
 # airbnb-clone
-clone of airbnb homepage
+clone of airbnb homepage static
